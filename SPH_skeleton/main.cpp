@@ -2,7 +2,7 @@
 #include <iostream>
 #include "Viewer.h"
 
-using namespace std;
+using namespace std;//두번째 커밋
 
 Viewer OpenGL_Viewer;
 
